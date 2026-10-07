@@ -1,0 +1,393 @@
+{
+ "schema": "moved/v1",
+ "old_repository": "wand125/square-packing-density-bounds",
+ "old_head": "096294aeb5f8b604df5890beda6cd601d05f4561",
+ "new_repository": "wand125/square-packing",
+ "note": "Every path of the old repository at old_head and where it lives now: 'new' is a path in the new repository's git tree (documents, code, metadata); 'new_release' is a release asset (certificate data) with the path inside it. The old repository is archived (read-only); its history and releases remain available.",
+ "paths": [
+  {
+   "old": "certificates/cert_n11_L381/certificate_input.txt",
+   "new": null,
+   "new_release": {
+    "tag": "square-lower-bounds-history-v1",
+    "assets": [
+     "certificates__cert_n11_L381.tar.gz"
+    ],
+    "sha256": [
+     "b70a616c3f43dc22d2d358067f9fc36777e2e3064fae9e2b556a1e3897486ac0"
+    ],
+    "path_inside": "certificates/cert_n11_L381/certificate_input.txt",
+    "unpack": "tar xzf certificates__cert_n11_L381.tar.gz -C problems/square-lower-bounds/history/density-bounds"
+   }
+  },
+  {
+   "old": "certificates/cert_n11_L381/certificate_metadata.json",
+   "new": "problems/square-lower-bounds/history/density-bounds/certificates/cert_n11_L381/certificate_metadata.json"
+  },
+  {
+   "old": "certificates/cert_n11_L381/certified_candidate.json",
+   "new": null,
+   "new_release": {
+    "tag": "square-lower-bounds-history-v1",
+    "assets": [
+     "certificates__cert_n11_L381.tar.gz"
+    ],
+    "sha256": [
+     "b70a616c3f43dc22d2d358067f9fc36777e2e3064fae9e2b556a1e3897486ac0"
+    ],
+    "path_inside": "certificates/cert_n11_L381/certified_candidate.json",
+    "unpack": "tar xzf certificates__cert_n11_L381.tar.gz -C problems/square-lower-bounds/history/density-bounds"
+   }
+  },
+  {
+   "old": "certificates/cert_n11_L381/run_verify.py",
+   "new": "problems/square-lower-bounds/history/density-bounds/certificates/cert_n11_L381/run_verify.py"
+  },
+  {
+   "old": "certificates/cert_n11_L381/solution.json",
+   "new": null,
+   "new_release": {
+    "tag": "square-lower-bounds-history-v1",
+    "assets": [
+     "certificates__cert_n11_L381.tar.gz"
+    ],
+    "sha256": [
+     "b70a616c3f43dc22d2d358067f9fc36777e2e3064fae9e2b556a1e3897486ac0"
+    ],
+    "path_inside": "certificates/cert_n11_L381/solution.json",
+    "unpack": "tar xzf certificates__cert_n11_L381.tar.gz -C problems/square-lower-bounds/history/density-bounds"
+   }
+  },
+  {
+   "old": "certificates/cert_n11_L381/solution.png",
+   "new": null,
+   "new_release": {
+    "tag": "square-lower-bounds-history-v1",
+    "assets": [
+     "certificates__cert_n11_L381.tar.gz"
+    ],
+    "sha256": [
+     "b70a616c3f43dc22d2d358067f9fc36777e2e3064fae9e2b556a1e3897486ac0"
+    ],
+    "path_inside": "certificates/cert_n11_L381/solution.png",
+    "unpack": "tar xzf certificates__cert_n11_L381.tar.gz -C problems/square-lower-bounds/history/density-bounds"
+   }
+  },
+  {
+   "old": "certificates/cert_n11_L381/verification_summary.json",
+   "new": "problems/square-lower-bounds/history/density-bounds/certificates/cert_n11_L381/verification_summary.json"
+  },
+  {
+   "old": "certificates/cert_n11_L381/verified_angles.jsonl",
+   "new": null,
+   "new_release": {
+    "tag": "square-lower-bounds-history-v1",
+    "assets": [
+     "certificates__cert_n11_L381.tar.gz"
+    ],
+    "sha256": [
+     "b70a616c3f43dc22d2d358067f9fc36777e2e3064fae9e2b556a1e3897486ac0"
+    ],
+    "path_inside": "certificates/cert_n11_L381/verified_angles.jsonl",
+    "unpack": "tar xzf certificates__cert_n11_L381.tar.gz -C problems/square-lower-bounds/history/density-bounds"
+   }
+  },
+  {
+   "old": "certificates/cert_n11_L381/verify.cpp",
+   "new": "problems/square-lower-bounds/history/density-bounds/certificates/cert_n11_L381/verify.cpp"
+  },
+  {
+   "old": "certificates/cert_n26_L5508/certificate_input.txt",
+   "new": null,
+   "new_release": {
+    "tag": "square-lower-bounds-history-v1",
+    "assets": [
+     "certificates__cert_n26_L5508.tar.gz"
+    ],
+    "sha256": [
+     "7620744b90418577f447038e7f4a9c6ab37569e6f4f4b0c1ebd5e1b25c3f08ff"
+    ],
+    "path_inside": "certificates/cert_n26_L5508/certificate_input.txt",
+    "unpack": "tar xzf certificates__cert_n26_L5508.tar.gz -C problems/square-lower-bounds/history/density-bounds"
+   }
+  },
+  {
+   "old": "certificates/cert_n26_L5508/certificate_metadata.json",
+   "new": "problems/square-lower-bounds/history/density-bounds/certificates/cert_n26_L5508/certificate_metadata.json"
+  },
+  {
+   "old": "certificates/cert_n26_L5508/certified_candidate.json",
+   "new": null,
+   "new_release": {
+    "tag": "square-lower-bounds-history-v1",
+    "assets": [
+     "certificates__cert_n26_L5508.tar.gz"
+    ],
+    "sha256": [
+     "7620744b90418577f447038e7f4a9c6ab37569e6f4f4b0c1ebd5e1b25c3f08ff"
+    ],
+    "path_inside": "certificates/cert_n26_L5508/certified_candidate.json",
+    "unpack": "tar xzf certificates__cert_n26_L5508.tar.gz -C problems/square-lower-bounds/history/density-bounds"
+   }
+  },
+  {
+   "old": "certificates/cert_n26_L5508/run_verify.py",
+   "new": "problems/square-lower-bounds/history/density-bounds/certificates/cert_n26_L5508/run_verify.py"
+  },
+  {
+   "old": "certificates/cert_n26_L5508/verification_summary.json",
+   "new": "problems/square-lower-bounds/history/density-bounds/certificates/cert_n26_L5508/verification_summary.json"
+  },
+  {
+   "old": "certificates/cert_n26_L5508/verified_angles.jsonl",
+   "new": null,
+   "new_release": {
+    "tag": "square-lower-bounds-history-v1",
+    "assets": [
+     "certificates__cert_n26_L5508.tar.gz"
+    ],
+    "sha256": [
+     "7620744b90418577f447038e7f4a9c6ab37569e6f4f4b0c1ebd5e1b25c3f08ff"
+    ],
+    "path_inside": "certificates/cert_n26_L5508/verified_angles.jsonl",
+    "unpack": "tar xzf certificates__cert_n26_L5508.tar.gz -C problems/square-lower-bounds/history/density-bounds"
+   }
+  },
+  {
+   "old": "certificates/cert_n26_L5508/verify.cpp",
+   "new": "problems/square-lower-bounds/history/density-bounds/certificates/cert_n26_L5508/verify.cpp"
+  },
+  {
+   "old": "certificates/cert_n29_L571/certificate_input.txt",
+   "new": null,
+   "new_release": {
+    "tag": "square-lower-bounds-history-v1",
+    "assets": [
+     "certificates__cert_n29_L571.tar.gz"
+    ],
+    "sha256": [
+     "f5a2c889ab416f3f187031149b7d236768aea06c6a0102853045b3f89318c49f"
+    ],
+    "path_inside": "certificates/cert_n29_L571/certificate_input.txt",
+    "unpack": "tar xzf certificates__cert_n29_L571.tar.gz -C problems/square-lower-bounds/history/density-bounds"
+   }
+  },
+  {
+   "old": "certificates/cert_n29_L571/certificate_metadata.json",
+   "new": "problems/square-lower-bounds/history/density-bounds/certificates/cert_n29_L571/certificate_metadata.json"
+  },
+  {
+   "old": "certificates/cert_n29_L571/certified_candidate.json",
+   "new": null,
+   "new_release": {
+    "tag": "square-lower-bounds-history-v1",
+    "assets": [
+     "certificates__cert_n29_L571.tar.gz"
+    ],
+    "sha256": [
+     "f5a2c889ab416f3f187031149b7d236768aea06c6a0102853045b3f89318c49f"
+    ],
+    "path_inside": "certificates/cert_n29_L571/certified_candidate.json",
+    "unpack": "tar xzf certificates__cert_n29_L571.tar.gz -C problems/square-lower-bounds/history/density-bounds"
+   }
+  },
+  {
+   "old": "certificates/cert_n29_L571/run_verify.py",
+   "new": "problems/square-lower-bounds/history/density-bounds/certificates/cert_n29_L571/run_verify.py"
+  },
+  {
+   "old": "certificates/cert_n29_L571/solution.json",
+   "new": null,
+   "new_release": {
+    "tag": "square-lower-bounds-history-v1",
+    "assets": [
+     "certificates__cert_n29_L571.tar.gz"
+    ],
+    "sha256": [
+     "f5a2c889ab416f3f187031149b7d236768aea06c6a0102853045b3f89318c49f"
+    ],
+    "path_inside": "certificates/cert_n29_L571/solution.json",
+    "unpack": "tar xzf certificates__cert_n29_L571.tar.gz -C problems/square-lower-bounds/history/density-bounds"
+   }
+  },
+  {
+   "old": "certificates/cert_n29_L571/solution.png",
+   "new": null,
+   "new_release": {
+    "tag": "square-lower-bounds-history-v1",
+    "assets": [
+     "certificates__cert_n29_L571.tar.gz"
+    ],
+    "sha256": [
+     "f5a2c889ab416f3f187031149b7d236768aea06c6a0102853045b3f89318c49f"
+    ],
+    "path_inside": "certificates/cert_n29_L571/solution.png",
+    "unpack": "tar xzf certificates__cert_n29_L571.tar.gz -C problems/square-lower-bounds/history/density-bounds"
+   }
+  },
+  {
+   "old": "certificates/cert_n29_L571/verification_summary.json",
+   "new": "problems/square-lower-bounds/history/density-bounds/certificates/cert_n29_L571/verification_summary.json"
+  },
+  {
+   "old": "certificates/cert_n29_L571/verified_angles.jsonl",
+   "new": null,
+   "new_release": {
+    "tag": "square-lower-bounds-history-v1",
+    "assets": [
+     "certificates__cert_n29_L571.tar.gz"
+    ],
+    "sha256": [
+     "f5a2c889ab416f3f187031149b7d236768aea06c6a0102853045b3f89318c49f"
+    ],
+    "path_inside": "certificates/cert_n29_L571/verified_angles.jsonl",
+    "unpack": "tar xzf certificates__cert_n29_L571.tar.gz -C problems/square-lower-bounds/history/density-bounds"
+   }
+  },
+  {
+   "old": "certificates/cert_n29_L571/verify.cpp",
+   "new": "problems/square-lower-bounds/history/density-bounds/certificates/cert_n29_L571/verify.cpp"
+  },
+  {
+   "old": ".gitignore",
+   "new": "problems/square-lower-bounds/history/density-bounds/.gitignore"
+  },
+  {
+   "old": "LICENSE",
+   "new": "problems/square-lower-bounds/history/density-bounds/LICENSE"
+  },
+  {
+   "old": "README.md",
+   "new": "problems/square-lower-bounds/history/density-bounds/README.md"
+  },
+  {
+   "old": "docs/continuous-density-certificate.ja.md",
+   "new": "problems/square-lower-bounds/history/density-bounds/docs/continuous-density-certificate.ja.md"
+  },
+  {
+   "old": "requirements.txt",
+   "new": "problems/square-lower-bounds/history/density-bounds/requirements.txt"
+  },
+  {
+   "old": "src/advance.py",
+   "new": "problems/square-lower-bounds/history/density-bounds/src/advance.py"
+  },
+  {
+   "old": "src/certify.py",
+   "new": "problems/square-lower-bounds/history/density-bounds/src/certify.py"
+  },
+  {
+   "old": "src/compare.py",
+   "new": "problems/square-lower-bounds/history/density-bounds/src/compare.py"
+  },
+  {
+   "old": "src/engine.py",
+   "new": "problems/square-lower-bounds/history/density-bounds/src/engine.py"
+  },
+  {
+   "old": "src/examples/initial_poses.npz",
+   "new": "problems/square-lower-bounds/history/density-bounds/src/examples/initial_poses.npz"
+  },
+  {
+   "old": "src/examples/seed_20.json",
+   "new": "problems/square-lower-bounds/history/density-bounds/src/examples/seed_20.json"
+  },
+  {
+   "old": "src/fast_geometry.py",
+   "new": "problems/square-lower-bounds/history/density-bounds/src/fast_geometry.py"
+  },
+  {
+   "old": "src/geometry.py",
+   "new": "problems/square-lower-bounds/history/density-bounds/src/geometry.py"
+  },
+  {
+   "old": "src/global_separation.py",
+   "new": "problems/square-lower-bounds/history/density-bounds/src/global_separation.py"
+  },
+  {
+   "old": "src/master.py",
+   "new": "problems/square-lower-bounds/history/density-bounds/src/master.py"
+  },
+  {
+   "old": "src/net_screen.py",
+   "new": "problems/square-lower-bounds/history/density-bounds/src/net_screen.py"
+  },
+  {
+   "old": "src/plot_refinement.py",
+   "new": "problems/square-lower-bounds/history/density-bounds/src/plot_refinement.py"
+  },
+  {
+   "old": "src/plot_solution.py",
+   "new": "problems/square-lower-bounds/history/density-bounds/src/plot_solution.py"
+  },
+  {
+   "old": "src/point_engine.py",
+   "new": "problems/square-lower-bounds/history/density-bounds/src/point_engine.py"
+  },
+  {
+   "old": "src/point_export.py",
+   "new": "problems/square-lower-bounds/history/density-bounds/src/point_export.py"
+  },
+  {
+   "old": "src/point_witness.py",
+   "new": "problems/square-lower-bounds/history/density-bounds/src/point_witness.py"
+  },
+  {
+   "old": "src/pricing.py",
+   "new": "problems/square-lower-bounds/history/density-bounds/src/pricing.py"
+  },
+  {
+   "old": "src/refinement.py",
+   "new": "problems/square-lower-bounds/history/density-bounds/src/refinement.py"
+  },
+  {
+   "old": "src/run_verify.py",
+   "new": "problems/square-lower-bounds/history/density-bounds/src/run_verify.py"
+  },
+  {
+   "old": "src/seed_full_cover.py",
+   "new": "problems/square-lower-bounds/history/density-bounds/src/seed_full_cover.py"
+  },
+  {
+   "old": "src/separation.py",
+   "new": "problems/square-lower-bounds/history/density-bounds/src/separation.py"
+  },
+  {
+   "old": "src/split_study.py",
+   "new": "problems/square-lower-bounds/history/density-bounds/src/split_study.py"
+  },
+  {
+   "old": "src/translation.py",
+   "new": "problems/square-lower-bounds/history/density-bounds/src/translation.py"
+  },
+  {
+   "old": "src/verify.cpp",
+   "new": "problems/square-lower-bounds/history/density-bounds/src/verify.cpp"
+  },
+  {
+   "old": "tests/test_advance.py",
+   "new": "problems/square-lower-bounds/history/density-bounds/tests/test_advance.py"
+  },
+  {
+   "old": "tests/test_engine.py",
+   "new": "problems/square-lower-bounds/history/density-bounds/tests/test_engine.py"
+  },
+  {
+   "old": "tests/test_global.py",
+   "new": "problems/square-lower-bounds/history/density-bounds/tests/test_global.py"
+  },
+  {
+   "old": "tests/test_point_export.py",
+   "new": "problems/square-lower-bounds/history/density-bounds/tests/test_point_export.py"
+  },
+  {
+   "old": "tests/test_refinement.py",
+   "new": "problems/square-lower-bounds/history/density-bounds/tests/test_refinement.py"
+  },
+  {
+   "old": "tests/test_translation.py",
+   "new": "problems/square-lower-bounds/history/density-bounds/tests/test_translation.py"
+  }
+ ],
+ "releases": []
+}

@@ -1,3 +1,5 @@
+> **Moved:** this repository is now part of [wand125/square-packing](https://github.com/wand125/square-packing/tree/main/problems/square-lower-bounds/history/density-bounds) (`problems/square-lower-bounds/history/density-bounds/`). This copy is archived; every path is mapped in `MOVED.json`, and old links, commits and releases keep working.
+
 # Lower bounds for packing unit squares, from rectangle-density certificates
 
 Let `s(n)` be the least side of a square that holds `n` unit squares with
